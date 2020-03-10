@@ -46,7 +46,7 @@ Installing Zim is easy. If you have a different shell framework installed (like 
 
 2. Clone the repository:
 
-       git clone --recursive https://github.com/letarjunin/zimfw ${ZDOTDIR:-${HOME}}/.zim
+       git clone --recursive https://github.com/snvishna/zimfw.git ${ZDOTDIR:-${HOME}}/.zim
 
 3. Paste this into your terminal to prepend the initialization templates to your configs:
 
